@@ -2,7 +2,7 @@
 
 👋 Hi, I’m Kristopher Bicknell (he/him). I am a Computer Science student at **Wright State University**
 
-[My LinkedIn](/www.linkedin.com/in/kristopher-bicknell-094b8b338) | [My Email](/mailto:bicknell.12@wright.edu) | [If you're bored](/https://www.coolmathgames.com/)
+[My LinkedIn](www.linkedin.com/in/kristopher-bicknell-094b8b338)| [My Email](mailto:bicknell.12@wright.edu) | [If you're bored](https://www.coolmathgames.com/)
 
 ## About Me
 
