@@ -12,5 +12,7 @@
 
 ## My Favorite Things I've Done
 
+- Graduated with honors as 4th in my class
+- Started my high school's first GSA as a senior
 - Second place Freshman team at the 2024 ACM Programming Contest
 - Made a lot of Java and C++ projects
