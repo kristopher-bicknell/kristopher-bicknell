@@ -3,6 +3,7 @@
 👋 Hi, I’m Kristopher Bicknell (he/him). I am a Computer Science student at **Wright State University**
 
 [My LinkedIn](https://www.linkedin.com/in/kristopher-bicknell-094b8b338) | [My Favorite Website](https://www.coolmathgames.com/)
+[![My Skills](https://skillicons.dev/icons?i=java,blender,cpp)](https://skillicons.dev)
 
 ## About Me
 
