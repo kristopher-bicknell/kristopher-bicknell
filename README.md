@@ -1,6 +1,6 @@
 # Kristopher Bicknell
 
-> 👋 Hi, I’m Kristopher Bicknell (he/him). I am a Computer Science student at **Wright State University**
+👋 Hi, I’m Kristopher Bicknell (he/him). I am a Computer Science student at **Wright State University**
 
 [My Favorite Website](https://www.coolmathgames.com/)
 
