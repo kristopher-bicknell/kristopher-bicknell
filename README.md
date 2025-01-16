@@ -8,7 +8,7 @@
 
 ## About Me
 
-- Programming in ==Java== and ==C++==
+- Programming in Java and C++
 - Aspiring cybersecurity nerd
 - I have a lot of useless skills
 
