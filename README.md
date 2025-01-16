@@ -1,6 +1,6 @@
 # Kristopher Bicknell
 
-👋 Hi, I’m Kristopher Bicknell (he/him). I am a Computer Science student at **Wright State University**
+> 👋 Hi, I’m Kristopher Bicknell (he/him). I am a Computer Science student at **Wright State University**
 
 [My Favorite Website](https://www.coolmathgames.com/)
 
@@ -8,7 +8,7 @@
 
 ## About Me
 
-- Programming in Java and C++
+- Programming in ==Java== and ==C++==
 - Aspiring cybersecurity nerd
 - I have a lot of useless skills
 
@@ -18,6 +18,3 @@
 - Started my high school's first GSA as a senior
 - Second place Freshman team at the 2024 ACM Programming Contest
 - Made a lot of Java and C++ projects
-
-## References
-
