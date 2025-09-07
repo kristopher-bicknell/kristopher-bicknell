@@ -23,7 +23,7 @@
 
 ### Projects for school:
 
-- n/a, it's summer babey
+- None at the moment
 
 ### Personal projects:
 
