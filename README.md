@@ -5,6 +5,7 @@
 [My Favorite Website](https://www.coolmathgames.com/)
 
 [![My Skills](https://skillicons.dev/icons?i=java,blender,cpp)](https://skillicons.dev)
+> Also GDScript
 
 ## About Me
 
@@ -27,5 +28,5 @@
 
 ### Personal projects:
 
-- [Fish](https://github.com/kristopher-bicknell/Fish)
+- [Alien Game](github.com/kristopher-bicknell/alien-game)
 - World domination (overview currently unavailable)
